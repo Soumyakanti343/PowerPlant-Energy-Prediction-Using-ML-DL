@@ -4,7 +4,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ##  Project Overview
 
@@ -166,18 +165,22 @@ The project includes:
 PowerPlant-Energy-Prediction-Using-ML-DL/
 │
 ├── Dataset/
-│   └── power-plant.csv
+│   └── powerplant_data.csv
 │
 ├── Notebook/
 │   └── PowerPlant_Energy_Prediction.ipynb
 │
 ├── Images/
 │   ├── Architecture.png
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   ├── loss_curve.png
-│   ├── leaderboard.png
-│   └── model_comparison.png
+│   ├── Correlation_Heatmap.png
+│   ├── Feature_Importance.png
+│   ├── Loss_Curve.png
+│   ├── Leaderboard.png
+│   ├── MAE_Comparison
+│   ├── MSE_Comparison
+│   ├── RMSE_Comparison
+│   └── R2_Score_Comparison
+│   
 │
 ├── README.md
 └── Requirments.txt
